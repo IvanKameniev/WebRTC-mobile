@@ -1,4 +1,4 @@
-package com.mobilertc
+package com.webrtc
 
 import android.app.Application
 import com.facebook.react.PackageList
